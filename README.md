@@ -1,5 +1,5 @@
-web proxy serve
-web代理服务器
+web proxy serve\n
+web代理服务器\n
 实现一个web代理服务器：
   获得管辖范围内（该局域网内）的http GET请求
   缓存web页面
